@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Linux User Group Landau e.V."
 permalink: /index.html
 ---
