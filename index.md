@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Linux User Group Landau"
-permalink: /index/
+title: "Linux User Group Landau e.V."
+permalink: /index.md/
 ---
 
 # Überschrift 1
