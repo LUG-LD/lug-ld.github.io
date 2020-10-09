@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Linux User Group Landau"
+permalink: /index/
 ---
 
 # Überschrift 1
