@@ -22,8 +22,8 @@ Das nächste Mal treffen wir uns am *14. Oktober 2020*. Aufgrund der Corona-Situ
 
 ### Impressum
 Linux User Group Landau/Pfalz (lug-ld) e.V.  
-Kettelerstr. 14  
-D-76865 Insheim  
+Reiterstr. 21  
+76829 Landau  
 
 E-Mail: [info@lug-ld.de](mailto:info@lug-ld.de)  
 Internet: [www.lug-ld.de](http://www.lug-ld.de)  
