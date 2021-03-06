@@ -3,7 +3,7 @@ layout: default
 title: "Linux User Group Landau e.V."
 description: "Wer wir sind und was wir machen :)"
 permalink: /index.html
-logo: tux-wein.svg
+logo: /tux-wein.svg
 ---
 
 # Wer wir sind
