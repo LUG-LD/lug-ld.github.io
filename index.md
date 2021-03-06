@@ -19,21 +19,4 @@ Das nächste Mal treffen wir uns am *14. Oktober 2020*. Aufgrund der Corona-Situ
 1. Mailingliste: Wir betreiben eine Mailingliste die von jeder Person genutzt werden kann. Bitte [hier die Mailingliste abonnieren](http://lists.lug-ld.de/mailman/listinfo/lug-ld) und dann den Anweisungen folgen. Oder
 2. E-Mail: an [info@lug-ld.de](mailto:info@lug-ld.de)
 
-### Impressum
-Linux User Group Landau/Pfalz (lug-ld) e.V.  
-Reiterstr. 21  
-76829 Landau  
-
-E-Mail: [info@lug-ld.de](mailto:info@lug-ld.de)  
-Internet: [www.lug-ld.de](http://www.lug-ld.de)  
-
-_Vertretungsberechtigter Vorstand_  
-Erster Vorsitzender: Hakon Benner (Anschrift wie oben)  
-Zweiter Vorsitzender: Ekki Plicht, Herxheim  
-Registergericht: Amtsgericht Landau  
-Registernummer: VR 2756  
-
-
-
-
-
+[Impressum](impressum.html)
