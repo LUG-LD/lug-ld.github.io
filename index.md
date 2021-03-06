@@ -1,6 +1,6 @@
 ---
 layout: default
-description: "Wer wir sind und was wir machen :)"
+title: "Linux User Group Landau e.V."
 permalink: /index.html
 ---
 
