@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Linux User Group Landau e.V."
+title: "Linux User Group Landau (lug-ld) e. V."
 permalink: /index.html
 ---
 
