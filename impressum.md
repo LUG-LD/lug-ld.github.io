@@ -16,6 +16,12 @@ _Vertretungsberechtigter Vorstand_
 Erster Vorsitzender: Hakon Benner (Anschrift wie oben)  
 Zweiter Vorsitzender: Ekki Plicht, Herxheim  
 Registergericht: Amtsgericht Landau  
-Registernummer: VR 2756  
+Registernummer: VR 2756
+
+_Kein inhaltlich Verantwortlicher_
+Als nichtwirtschaftlicher Verein der primär nur ideelle Zwecke verfolgt (Idealverein) gilt für uns § 55 Abs. 1 RStV
+
+_Haftungshinweis_
+Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
 [Zurück](/)
