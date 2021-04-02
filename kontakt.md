@@ -5,7 +5,7 @@ permalink: /kontakt.html
 ---
 
 ## Kontakt
-1. Mailingliste: Wir betreiben eine Mailingliste die von jeder Person genutzt werden kann. Bitte [hier die Mailingliste abonnieren](http://lists.lug-ld.de/mailman/listinfo/lug-ld) und dann den Anweisungen folgen. Oder
-2. E-Mail: an [info@lug-ld.de](mailto:info@lug-ld.de)
+1. [Mailingliste](http://lists.lug-ld.de/mailman/listinfo/lug-ld): Wir betreiben eine [Mailingliste](http://lists.lug-ld.de/mailman/listinfo/lug-ld) die von jeder Person genutzt werden kann.
+3. E-Mail: an [info@lug-ld.de](mailto:info@lug-ld.de)
 
 [Zurück](/)
