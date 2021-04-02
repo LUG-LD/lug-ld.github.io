@@ -3,7 +3,7 @@ layout: default
 title: "Linux User Group Landau (lug-ld) e. V."
 permalink: /index.html
 ---
-[Impressum](impressum.html) | [Kontakt](kontakt.html)
+[Impressum](impressum.html) | [Kontakt](kontakt.html) | [Home](/)
 
 # Wer wir sind
 Wir sind ein kleiner Verein in Landau in der Pfalz, dessen Mitglieder sich mit dem Betriebssystem 'Linux' befassen. Uns geht es darum uns gegenseitig und auch interessierten Nicht-Mitglieder zu helfen, Linux auf ihrem Computer zu verwenden.
