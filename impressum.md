@@ -5,17 +5,17 @@ permalink: /impressum.html
 ---
 
 # Impressum
-Linux User Group Landau/Pfalz (lug-ld) e.V.
-Reiterstr. 21
+Linux User Group Landau/Pfalz (lug-ld) e.V.  
+Reiterstr. 21  
 76829 Landau/Pf
 
-E-Mail: [info@lug-ld.de](mailto:info@lug-ld.de)
+E-Mail: [info@lug-ld.de](mailto:info@lug-ld.de)  
 Internet: [www.lug-ld.de](http://www.lug-ld.de)
 
 ## Vertretungsberechtigter Vorstand
-Erster Vorsitzender: Hakon Benner (Anschrift wie oben)
-Zweiter Vorsitzender: Ekki Plicht, Herxheim
-Registergericht: Amtsgericht Landau
+1. Vorsitzender: Hakon Benner (Anschrift wie oben)
+2. Vorsitzender: Ekki Plicht, Herxheim  
+Registergericht: Amtsgericht Landau  
 Registernummer: VR 2756
 
 ## Kein inhaltlich Verantwortlicher
