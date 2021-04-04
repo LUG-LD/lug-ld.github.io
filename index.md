@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /index.html
+author: halbrot
 ---
 [Home](/) | [Impressum](impressum.html) | [Kontakt](kontakt.html)
 
