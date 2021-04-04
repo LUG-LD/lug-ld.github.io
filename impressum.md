@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Linux User Group Landau e.V. - Impressum"
 permalink: /impressum.html
 ---
+[Home](/) | [Impressum](impressum.html) | [Kontakt](kontakt.html)
 
 # Impressum
 Linux User Group Landau/Pfalz (lug-ld) e.V.  
