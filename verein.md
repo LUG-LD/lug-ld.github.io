@@ -10,7 +10,7 @@ Seit dem 26.02.2004 ist die Linux User Group Landau offiziell vom Amtsgericht un
 Zur Zeit hat der Verein über 20 Vereinsmitglieder und viele weitere aktive Linux-Freunde.
 
 ## Mitglied werden
-Wer in den Verein eintreten will kann den [Mitgliedsantrag](mitgliedsantrag.pdf) (PDF-Datei) herunterladen, anschließend den ausgefüllten Antrag einfach beim nächsten Treffen mitbringen oder an die Vereinsadresse schicken.
+Wer in den Verein eintreten will kann den [Mitgliedsantrag](mitgliedsantrag.pdf){:target="_blank"} (PDF-Datei) herunterladen, anschließend den ausgefüllten Antrag einfach beim nächsten Treffen mitbringen oder an die Vereinsadresse schicken.
 
 ## Mitgliedsbeiträge
 Für eine Mitgliedschaft im LUG-LD e. V. wurden folgende Jahresbeiträge festgelegt:
@@ -30,4 +30,4 @@ Wer uns finanziell unterstützen möchte, kann als Mitglied unserem Verein beitr
 Um an den Aktivitäten der LUG-LD teilzunehmen ist keine Vereinsmitgliedschaft erforderlich. Die Vereinsmitgliedschaft ist freiwillig. Um die Verbreitung des freien Betriebssystems GNU/Linux zu fördern, organisieren wir z.B. Installationspartys, bei denen wir Anfängern helfen, die ersten Hürden zu nehmen, außerdem stehen wir auf unserer Mailingsliste und jeden Monat bei unserem Treffen in gemütlicher Atmosphäre in einem Landauer Restaurant (siehe Termine auf der Startseite) zu allen Fragen rund um Linux zur Verfügung.
 
 ## Satzung
-Hier geht es zur Satzung
+Hier geht es zur Satzung (kommt ASAP)
