@@ -10,7 +10,7 @@ Reiterstr. 21
 76829 Landau in der Pfalz
 
 E-Mail: [info@lug-ld.de](mailto:info@lug-ld.de)  
-Internet: [www.lug-ld.de](http://www.lug-ld.de)
+Internet: [lug-ld.de](https://lug-ld.de)
 
 Registergericht: Amtsgericht Landau  
 Registernummer: VR 2756
