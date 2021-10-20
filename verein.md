@@ -4,7 +4,7 @@ permalink: /verein.html
 ---
 [Home](/) | [Verein](verein.html) | [Kontakt](kontakt.html) | [Impressum](impressum.html)
 
-## Die Linux User Group Landau e. V.
+# Die Linux User Group Landau e. V.
 Seit dem 26.02.2004 ist die Linux User Group Landau offiziell vom Amtsgericht unter der Registernummer VR 2756 als Verein in das Vereinsregister eingetragen und vom Finanzamt als gemeinnützig zur Förderung der Bildung anerkannt.
 
 Zur Zeit hat der Verein über 20 Vereinsmitglieder und viele weitere aktive Linux-Freunde.
