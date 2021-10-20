@@ -9,7 +9,7 @@ Seit dem 26.02.2004 ist die Linux User Group Landau offiziell vom Amtsgericht un
 
 Zur Zeit hat der Verein über 20 Vereinsmitglieder und viele weitere aktive Linux-Freunde.
 
-## Aufnahmeantrag
+## Mitglied werden
 Wer in den Verein eintreten will kann den Mitgliedsantrag (PDF-Datei) herunterladen, anschließend den ausgefüllten Antrag einfach beim nächsten Treffen mitbringen oder an die Vereinsadresse schicken.
 
 ## Mitgliedsbeiträge
@@ -22,11 +22,9 @@ Für eine Mitgliedschaft im LUG-LD e. V. wurden folgende Jahresbeiträge festgel
 Wer uns finanziell unterstützen möchte, kann als Mitglied unserem Verein beitreten oder auch einfach so Geld spenden (siehe Kontoverbindung). Wir sind ein gemeinnütziger Verein und berechtigt Spendenbestätigungen auszustellen.
 
 ## Bankverbindung
-IBAN: DE35 5486 2500 0000 7527 97 (DE35548625000000752797)
-
-BIC: GENODE61SUW
-
-Institut: VR Bank Südpfalz
+* IBAN: DE35 5486 2500 0000 7527 97 (DE35548625000000752797)
+* BIC: GENODE61SUW
+* Institut: VR Bank Südpfalz
 
 ## Aktivitäten
 Um an den Aktivitäten der LUG-LD teilzunehmen ist keine Mitgliedschaft im lug-ld e. V. erforderlich. Die Vereinsmitgliedschaft ist freiwillig. Um die Verbreitung des freien Betriebssystems GNU/Linux zu fördern, organisieren wir z.B. Installationspartys, bei denen wir Anfängern helfen, die ersten Hürden zu nehmen, außerdem stehen wir auf unserer Mailingsliste und jeden Monat bei unserem Treffen in gemütlicher Atmosphäre in einem Landauer Restaurant (siehe Termine auf der Startseite) zu allen Fragen rund um Linux zur Verfügung.
