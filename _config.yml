@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 logo: tux-wein.svg
 title: Linux User Group Landau
 description: Linux färr die Palz!
-site.lang: de_DE
+lang: de_DE
 github:
   is_project_page: false
