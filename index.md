@@ -11,6 +11,19 @@ Wir sind ein kleiner Verein in Landau in der Pfalz, dessen Mitglieder sich mit d
 Wir treffen uns regelmässig (1x im Monat) um zu ratschen, 1x im Jahr versuchen wir eine größere Veranstaltung wie den [Macherdaach](https://macherdaa.ch) oder den *Linux Info Tag* zu organisieren.
 
 # Termine
-* 14\. Oktober 2020, in den Räumlichkeiten des ZTL e.V. und auch online
+* Mi. 17.11.21 - Mitgliederversammlung
+* Do. 16.12.21
+* Mi. 19.01.22
+* Do. 17.02.22
+* Mi. 16.03.22
+* Do. 21.04.22
+* Mi. 18.05.22
+* Do. 16.06.22
+* Mi. 20.07.22
+* Do. 18.08.22
+* Mi. 21.09.22
+* Do. 20.10.22
+* Mi. 16.11.22
+* Do. 15.12.22
 
 Das nächste Mal treffen wir uns am *14. Oktober 2020*. Aufgrund der Corona-Situation ist das Treffen in einem Restaurant derzeit nicht möglich, wir treffen uns zum Teil in den Räumlichkeiten des [ZTL e.V.](https://ztl.space) und gleichzeitig Online in einen Video-Meeting. So kann jede/r daran teilnehmen, persönlich oder virtuell.
