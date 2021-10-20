@@ -8,7 +8,7 @@ permalink: /index.html
 Wir sind ein kleiner Verein in Landau in der Pfalz, dessen Mitglieder sich mit dem Betriebssystem 'Linux' befassen. Uns geht es darum uns gegenseitig und auch interessierten Nicht-Mitglieder zu helfen, Linux auf ihrem Computer zu verwenden.
 
 # Was wir machen
-Wir treffen uns regelmässig (1x im Monat) um zu ratschen, 1x im Jahr versuchen wir eine größere Veranstaltung wie den [Macherdaach](https://macherdaa.ch) oder den *Linux Info Tag* zu organisieren.
+Wir treffen uns regelmässig (1x im Monat um 19 Uhr) um zu ratschen, 1x im Jahr versuchen wir eine größere Veranstaltung wie den [Macherdaach](https://macherdaa.ch) oder den *Linux Info Tag* zu organisieren.
 
 # Termine
 * Mi. 17.11.21 - Mitgliederversammlung
