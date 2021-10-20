@@ -2,7 +2,7 @@
 layout: default
 permalink: /impressum.html
 ---
-[Home](/) | [Impressum](impressum.html) | [Kontakt](kontakt.html)
+[Home](/) | [Verein](verein.html) | [Kontakt](kontakt.html) | [Impressum](impressum.html)
 
 # Impressum
 Linux User Group Landau in der Pfalz (lug-ld) e. V.  
