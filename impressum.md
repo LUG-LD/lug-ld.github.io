@@ -5,9 +5,9 @@ permalink: /impressum.html
 [Home](/) | [Impressum](impressum.html) | [Kontakt](kontakt.html)
 
 # Impressum
-Linux User Group Landau/Pfalz (lug-ld) e.V.  
+Linux User Group Landau in der Pfalz (lug-ld) e. V.  
 Reiterstr. 21  
-76829 Landau/Pf
+76829 Landau in der Pfalz
 
 E-Mail: [info@lug-ld.de](mailto:info@lug-ld.de)  
 Internet: [www.lug-ld.de](http://www.lug-ld.de)
@@ -23,4 +23,4 @@ Registernummer: VR 2756
 Als nichtwirtschaftlicher Verein der primär nur ideelle Zwecke verfolgt (Idealverein) gilt für uns § 55 Abs. 1 RStV
 
 ## Haftungshinweis
-Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
