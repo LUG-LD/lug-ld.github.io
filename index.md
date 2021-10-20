@@ -25,5 +25,3 @@ Wir treffen uns regelmässig (1x im Monat) um zu ratschen, 1x im Jahr versuchen 
 * Do. 20.10.22
 * Mi. 16.11.22
 * Do. 15.12.22
-
-Das nächste Mal treffen wir uns am *14. Oktober 2020*. Aufgrund der Corona-Situation ist das Treffen in einem Restaurant derzeit nicht möglich, wir treffen uns zum Teil in den Räumlichkeiten des [ZTL e.V.](https://ztl.space) und gleichzeitig Online in einen Video-Meeting. So kann jede/r daran teilnehmen, persönlich oder virtuell.
