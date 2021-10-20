@@ -2,7 +2,7 @@
 layout: default
 permalink: /index.html
 ---
-[Home](/) | [Impressum](impressum.html) | [Kontakt](kontakt.html)
+[Home](/) | [Verein](verein.html) | [Kontakt](kontakt.html) | [Impressum](impressum.html)
 
 # Die Linux User Group Landau e. V.
 Wir sind ein kleiner Verein in Landau in der Pfalz, dessen Mitglieder sich mit dem Betriebssystem 'Linux' befassen. Uns geht es darum uns gegenseitig und auch interessierten Nicht-Mitglieder zu helfen, Linux auf ihrem Computer zu verwenden.
