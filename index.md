@@ -5,7 +5,7 @@ permalink: /index.html
 [Home](/) | [Verein](verein.html) | [Kontakt](kontakt.html) | [Impressum](impressum.html)
 
 <div>
-<img src="img/LUG-LD_logo_205x125.png" alt="LUG-LD Logo" title="Die Linux User Group Landau e. V." style="float: right; padding: 0 0 0 10px;">
+<img src="img/LUG-LD_logo_205x125.png" alt="Die Linux User Group Landau e. V." title="LUG-LD Logo (c) Sonja W." style="float: right; padding: 0 0 0 10px;">
 </div>
 
 Wir sind ein kleiner Verein in Landau in der Pfalz, dessen Mit&shy;glieder sich mit dem Be&shy;triebs&shy;sys&shy;tem Li&shy;nux be&shy;fas&shy;sen. Uns geht es darum, uns ge&shy;gen&shy;sei&shy;tig und auch in&shy;ter&shy;essier&shy;ten Nicht-Mit&shy;glie&shy;dern zu hel&shy;fen, Linux auf ihrem Com&shy;pu&shy;ter zu ver&shy;wen&shy;den.
