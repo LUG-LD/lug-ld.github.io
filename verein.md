@@ -27,7 +27,7 @@ Wer uns finanziell unterstützen möchte, kann als Mitglied unserem Verein beitr
 * Institut: VR Bank Südpfalz
 
 ## Aktivitäten
-Um an den Aktivitäten der LUG-LD teilzunehmen ist keine Vereinsmitgliedschaft erforderlich. Die Vereinsmitgliedschaft ist freiwillig. Um die Verbreitung des freien Betriebssystems GNU/Linux zu fördern, organisieren wir z.B. Installationspartys, bei denen wir Anfängern helfen, die ersten Hürden zu nehmen, außerdem stehen wir auf unserer Mailingsliste und jeden Monat bei unserem Treffen in gemütlicher Atmosphäre in einem Landauer Restaurant (siehe Termine auf der Startseite) zu allen Fragen rund um Linux zur Verfügung.
+Um an den Aktivitäten der LUG-LD teilzunehmen, ist keine Vereinsmitgliedschaft erforderlich. Die Vereinsmitgliedschaft ist freiwillig. Um die Verbreitung des freien Betriebssystems GNU/Linux zu fördern, organisieren wir z.B. Installationspartys, bei denen wir Anfängern helfen, die ersten Hürden zu nehmen, außerdem stehen wir auf unserer Mailingsliste und jeden Monat bei unserem Treffen in gemütlicher Atmosphäre in einem Landauer Restaurant (siehe Termine auf der Startseite) zu allen Fragen rund um Linux zur Verfügung.
 
 ## Satzung
 Hier geht es zur Satzung (kommt ASAP)
