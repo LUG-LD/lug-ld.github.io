@@ -7,9 +7,8 @@ permalink: /index.html
 <div>
 <img src="img/LUG-LD_logo_205x125.png" alt="LUG-LD Logo" title="Die Linux User Group Landau e. V." style="float: right; padding: 0 0 0 10px;">
 </div>
-<br style="clear: both;">
 
-Wir sind ein kleiner Verein in Landau in der Pfalz, dessen Mitglieder sich mit dem Betriebssystem Linux befassen. Uns geht es darum, uns gegenseitig und auch interessierten Nicht-Mitgliedern zu helfen, Linux auf ihrem Computer zu verwenden.
+Wir sind ein kleiner Verein in Landau in der Pfalz, dessen Mit&shy;glieder sich mit dem Be&shy;triebs&shy;sys&shy;tem Li&shy;nux be&shy;fas&shy;sen. Uns geht es darum, uns ge&shy;gen&shy;sei&shy;tig und auch in&shy;ter&shy;essier&shy;ten Nicht-Mit&shy;glie&shy;dern zu hel&shy;fen, Linux auf ihrem Com&shy;pu&shy;ter zu ver&shy;wen&shy;den.
 
 ## Was wir machen
 Neben den regelmässigen Treffen (siehe unten) versuchen wir 1x im Jahr eine größere Veranstaltung wie den [Macherdaach](https://macherdaa.ch) oder den *Linux Info Tag* zu organisieren.
