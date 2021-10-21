@@ -5,7 +5,7 @@ permalink: /index.html
 [Home](/) | [Verein](verein.html) | [Kontakt](kontakt.html) | [Impressum](impressum.html)
 
 <div>
-<img src="img/LUG-LD_logo_205x125.png" alt="LUG-LD Logo" title="Linux User Group Landau, Logo (c) Sonja" style="border: red 6px solid; float: right;" >
+<img src="img/LUG-LD_logo_205x125.png" alt="LUG-LD Logo" title="Linux User Group Landau, Logo (c) Sonja" style="float: right; padding: 0 0 0 10px;">
 </div>
 
 
