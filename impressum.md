@@ -20,7 +20,7 @@ Registernummer: VR 2756
 1. Vorsitzender: Ekki Plicht, Herxheim
 
 ### Kein inhaltlich Verantwortlicher
-Als nichtwirtschaftlicher Verein der primär nur ideelle Zwecke verfolgt (Idealverein) gilt für uns § 55 Abs. 1 RStV
+Als nichtwirtschaftlicher Verein der primär nur ideelle Zwecke verfolgt (Idealverein) gilt für uns § 55 Abs. 1 MStV
 
 ## Haftungshinweis
 Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
