@@ -1,3 +1,23 @@
+## Willkommen, mutiger Maintainer der LUG-LD Webseite!
+
+Dieses README gibt einen kurzen Überblick darüber, was wo ist, wie was funktioniert und was wie getan werden kann.
+
+Die LUG-LD Webseite lug-ld.de wird als **Github** **Pages** gehostet. Alles was dafür nötig ist liegt in diesem Repo.
+
+### Zwei Möglichkeiten der Bearbeitung
+
+1. Direkt in Github mit dem eingebauten Web-Editor. Dazu braucht man die passenden Rechte im Repo, vergeben kann das @casartar und @halbrot.
+2. Das Repo auf den lokalen rechner clonen, bearbeiten, pushen (Pull request erzeugen). Einer der Admins muss den PR dann prüfen und mergen.
+
+
+### Gestaltung
+
+Github Pages funktionieren so, das nach jeder Änderung im Repo eine statische Seite erzeugt wird. Änderungen sind meist nach wenigen Sekunden bis Minuten sichtbar, man muss nix tun. Der Generator für die statische Seite ist **Jekyll**. Jekyll verwendet __Templates__ zur Darstellung, zusammen mit dem CSS und ein paar Scripts macht das das **Theme** aus. Die lug-ld.de Webseite verwendet das Theme **fixme**. 
+
+
+
+
+
 ## Welcome to Linux User Group Landau
 
 You can use the [editor on GitHub](https://github.com/LUG-LD/lug-ld.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
