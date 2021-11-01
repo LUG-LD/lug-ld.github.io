@@ -12,7 +12,11 @@ Die LUG-LD Webseite lug-ld.de wird als **Github** **Pages** gehostet. Alles was 
 
 ### Gestaltung
 
-Github Pages funktionieren so, das nach jeder Änderung im Repo eine statische Seite erzeugt wird. Änderungen sind meist nach wenigen Sekunden bis Minuten sichtbar, man muss nix tun. Der Generator für die statische Seite ist **Jekyll**. Jekyll verwendet __Templates__ zur Darstellung, zusammen mit dem CSS und ein paar Scripts macht das das **Theme** aus. Die lug-ld.de Webseite verwendet das Theme **fixme**. 
+Github Pages funktionieren so, das nach jeder Änderung im Repo eine statische Seite erzeugt wird. Änderungen sind meist nach wenigen Sekunden bis Minuten sichtbar, man muss nix tun. Der Generator für die statische Seite ist **Jekyll**. Jekyll verwendet __Templates__ zur Darstellung, zusammen mit dem CSS und ein paar Scripts macht das das **Theme** aus. Die lug-ld.de Webseite verwendet das Theme **jekyll-theme-minimal**.
+
+In der Datei **_config.yaml** wird festgelegt
+- welches Theme verwendet wird
+- wie bestimmte Variablen gesetzt werden.
 
 
 
