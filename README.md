@@ -7,7 +7,7 @@ Die LUG-LD Webseite lug-ld.de wird als **Github** **Pages** gehostet. Alles was 
 ### Zwei Möglichkeiten der Bearbeitung
 
 1. Direkt in Github mit dem eingebauten Web-Editor. Dazu braucht man die passenden Rechte im Repo, vergeben kann das @casartar und @halbrot.
-2. Das Repo auf den lokalen rechner clonen, bearbeiten, pushen (Pull request erzeugen). Einer der Admins muss den PR dann prüfen und mergen.
+2. Das Repo auf den lokalen Rechner clonen, bearbeiten, pushen (Pull request erzeugen). Einer der Admins muss den PR dann prüfen und mergen.
 
 
 ### Gestaltung
@@ -16,7 +16,7 @@ Github Pages funktionieren so, das nach jeder Änderung im Repo eine statische S
 
 In der Datei **_config.yaml** wird festgelegt
 - welches Theme verwendet wird
-- wie bestimmte Variablen gesetzt werden.
+- wie bestimmte Variablen gesetzt werden. Welche Variablen das Theme zur Verfügung stellt, findet man im [Repo der Template](https://github.com/pages-themes/minimal) .
 
 
 
