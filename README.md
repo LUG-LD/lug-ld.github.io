@@ -16,8 +16,11 @@ Github Pages funktionieren so, das nach jeder Änderung im Repo eine statische S
 
 Github Pages werden über die Datei **_config.yaml** gesteuert. Hier wird festgelegt : 
 - welches Theme verwendet wird
+- welches Logo angezeigt wird
+- der Titel der Seite
 - wie bestimmte Variablen gesetzt werden. Welche Variablen das Theme zur Verfügung stellt, findet man im [Repo der Template](https://github.com/pages-themes/minimal) .
 
+---------------------
 
 
 
