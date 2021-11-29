@@ -14,9 +14,8 @@ Wir sind ein kleiner Verein in Landau in der Pfalz, dessen Mit&shy;glieder sich 
 Neben den regelmässigen Treffen (siehe unten) versuchen wir 1x im Jahr eine größere Veranstaltung wie den [Macherdaach](https://macherdaa.ch) oder den *Linux Info Tag* zu organisieren.
 
 ## Termine
-Unsere regelmässigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uhr. Meistens treffen wir uns im Restaurant [Vier Jahreszeiten](http://www.vierjahreszeiten-landau.de/){:target="_blank"} in Landau [🌎](https://osm.org/go/0DP1YoLun?layers=N&m=){:target="_blank"} , aber auch gelegentlich in den Räumen des [ZTL.space](https://ztl.space){:target="_blank"} (Zentrum für Technikkultur Landau). Wir bemühen uns, zu jedem Treffen einen interessanten Vortrag zu organisieren. Da geht es dann um Linux- oder verwandte Themen aus dem Bereich Soft- und Hardware.
-* Mi. 24.11.21 - Mitgliederversammlung im [ZTL.space](https://ztl.space){:target="_blank"}
-* Do. 16.12.21
+Unsere regelmässigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uhr. Meistens treffen wir uns im Restaurant [Vier Jahreszeiten](http://www.vierjahreszeiten-landau.de/){:target="_blank"} in Landau [🌎](https://osm.org/go/0DP1YoLun?layers=N&m=){:target="_blank"} , aber auch gelegentlich in den Räumen des [ZTL.space](https://ztl.space){:target="_blank"} (Zentrum für Technikkultur Landau). Aktuell leider nur virtuell im [ZTL Jitsi](https://conference.ztl.team/LinuxUserGroupLandau){:target="_blank"} Wir bemühen uns, zu den meisten Treffen ein interessantes Thema oder einen Vortrag zu organisieren. Da geht es dann um Linux- oder verwandte Themen aus dem Bereich Soft- und Hardware.
+* Do. 16.12.21 - Kommandozeile/Terminal/Bash usw.
 * Mi. 19.01.22
 * Do. 17.02.22
 * Mi. 16.03.22
