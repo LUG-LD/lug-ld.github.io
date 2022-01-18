@@ -16,7 +16,7 @@ Neben den regelmäßigen Treffen (siehe unten) unterstützen oder organisieren w
 ## Termine/Treffen
 Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uhr. Meistens treffen wir uns im Restaurant [Vier Jahreszeiten](http://www.vierjahreszeiten-landau.de/){:target="_blank"} in Landau [🌎](https://osm.org/go/0DP1YoLun?layers=N&m=){:target="_blank"} , aber auch gelegentlich in den Räumen des [ZTL.space](https://ztl.space){:target="_blank"} (Zentrum für Technikkultur Landau). Aktuell leider nur virtuell im [ZTL Jitsi](https://conference.ztl.team/LinuxUserGroupLandau){:target="_blank"} Wir bemühen uns, zu den meisten Treffen ein interessantes Thema oder einen Vortrag zu organisieren. Da geht es dann um Linux- oder verwandte Themen aus dem Bereich Soft- und Hardware.
 * Do. 16.12.21 - Kommandozeile/Terminal/Bash usw.
-* Mi. 19.01.22
+* Mi. 19.01.22 - VPN
 * Do. 17.02.22
 * Mi. 16.03.22
 * Do. 21.04.22
