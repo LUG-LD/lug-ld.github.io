@@ -19,7 +19,7 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 * Mi. 19.01.22 - VPN
 * Do. 17.02.22
 * Do. 17.03.22 - Netzwerk-Dateisystem-Performance
-* Do. 21.04.22
+* Do. 21.04.22 - Proxmox
 * Mi. 18.05.22
 * Do. 16.06.22
 * Mi. 20.07.22
