@@ -18,7 +18,7 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 
 * Mi. 15.06.22
 * Mi. 20.07.22
-* Do. 18.08.22
+* Do. 18.08.22 im ZTL - Still not Superheroes
 * Mi. 21.09.22
 * Do. 20.10.22
 * Mi. 16.11.22
