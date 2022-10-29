@@ -14,6 +14,11 @@ Wir sind ein klei&shy;ner aber fei&shy;ner ge&shy;mein&shy;nützi&shy;ger Ver&sh
 Neben den regelmäßigen Treffen (siehe unten) unterstützen oder organisieren wir Veranstaltung wie den [Macherdaach](https://macherdaa.ch){:target="_blank"} oder den *Linux Info Tag*.
 
 ## Termine/Treffen
+
+### Heute, Samstag 29. 10. 2022 Repair Festival an der Uni Landau!
+Zusammen mit dem ZTL e.V. bietet die LUG-Landau heute einen Workshop am [Repair Festival](https://www.asta-landau.de/pangolin/){:target="_blank"} an der Uni Landau an. Das Festivalk beginnt so gegen Mittag, unser Workshop um 14:00 Uhr im **Raum CIV160**. Thema ist "Studi-Notebooks für das kleine Budget: Auswählen, Aufrüsten, Linux drauf". Kommt vorbei! 
+
+
 Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uhr. Meistens treffen wir uns im Restaurant [Vier Jahreszeiten](http://www.vierjahreszeiten-landau.de/){:target="_blank"} in Landau [🌎](https://osm.org/go/0DP1YoLun?layers=N&m=){:target="_blank"} , aber auch gelegentlich in den Räumen des [ZTL.space](https://ztl.space){:target="_blank"} (Zentrum für Technikkultur Landau). Wir bemühen uns, zu den meisten Treffen ein interessantes Thema oder einen Vortrag zu organisieren. Da geht es dann um Linux- oder verwandte Themen aus dem Bereich Soft- und Hardware.
 
 * Mi. 16.11.22 Jahreshauptversammlung mit Wahlen, im ZTL e.V.
