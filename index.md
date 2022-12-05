@@ -17,8 +17,7 @@ Neben den regelmäßigen Treffen (siehe unten) unterstützen oder organisieren w
 
 Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uhr. Meistens treffen wir uns im Restaurant [Vier Jahreszeiten](http://www.vierjahreszeiten-landau.de/){:target="_blank"} in Landau [🌎](https://osm.org/go/0DP1YoLun?layers=N&m=){:target="_blank"} , aber auch gelegentlich in den Räumen des [ZTL.space](https://ztl.space){:target="_blank"} (Zentrum für Technikkultur Landau). Wir bemühen uns, zu den meisten Treffen ein interessantes Thema oder einen Vortrag zu organisieren. Da geht es dann um Linux- oder verwandte Themen aus dem Bereich Soft- und Hardware.
 
-* Mi. 16.11.22 Jahreshauptversammlung mit Wahlen, im ZTL e.V.
-* Do. 15.12.22
+* Do. 15.12.22 im 4 Jahreszeiten (sofern die Reservierung bestätigt wird)
 * Mi. 18.01.23
 * Do. 16.02.23
 * Mi. 15.03.23
