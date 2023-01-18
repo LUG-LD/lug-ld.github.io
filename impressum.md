@@ -5,8 +5,8 @@ permalink: /impressum.html
 [Home](/) | [Verein](verein.html) | [Kontakt](kontakt.html) | [Impressum](impressum.html)
 
 # Impressum
-Linux User Group Landau in der Pfalz (lug-ld) e. V.
-Hans-Stempel-Str. 3
+Linux User Group Landau in der Pfalz (lug-ld) e. V.  
+Hans-Stempel-Str. 3  
 76829 Landau in der Pfalz
 
 E-Mail: [info@lug-ld.de](mailto:info@lug-ld.de)  
