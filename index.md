@@ -19,4 +19,11 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 
 * Mi. 17.05.23 (ZTL, mit Vortrag)
 * Do. 15.06.23 (Kneipe)
+* Mi. 21.06.23 (ZTL, mit Vortrag)
+* Do. 20.07.23 (Kneipe)
+* Mi. 16.08.23 (ZTL, mit Vortrag)
+* Do. 21.09.23 (Kneipe)
+* Mi. 18.10.23 (ZTL, mit Vortrag)
+* Do. 16.11.23 (Kneipe)
+* Mi. 20.12.23 (ZTL, mit Vortrag)
 
