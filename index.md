@@ -24,3 +24,7 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 * Do. 16.11.23 (Kneipe)
 * Mi. 20.12.23 (ZTL, mit Vortrag)
 
+## Wir unterstützen die Pinguine im Landauer Zoo und die können häcken
+<div>
+<img src="img/penguins_can_hack.jpg" alt="Pinguine können hacken. Schild im Zoo Landau." title="Pinguine können hacken!" style="float: right; padding: 0 0 0 10px;">
+</div>
