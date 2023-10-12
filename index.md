@@ -17,8 +17,7 @@ Neben den regelmäßigen Treffen (siehe unten) unterstützen oder organisieren w
 
 Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uhr. Meistens treffen wir uns in einem Restaurant in Landau, aber auch gelegentlich in den Räumen des [ZTL.space](https://ztl.space){:target="_blank"} (Zentrum für Technikkultur Landau). Wir bemühen uns, zu den meisten Treffen ein interessantes Thema oder einen Vortrag zu organisieren. Da geht es dann um Linux- oder verwandte Themen aus dem Bereich Soft- und Hardware.
 
-* Do. 21.09.23 (19:00 im Red Chillies in Landau, Max-Planck-Str. 1, gemütliches Beisammensein ohne Vortrag)
-* Mi. 18.10.23 (ZTL, mit Vortrag)
+* Mi. 18.10.23 (ZTL, mit Vortrag: Verschl&uuml;sselung mit der Enigma)
 * Do. 16.11.23 (Kneipe)
 * Mi. 20.12.23 (ZTL, mit Vortrag)
 
