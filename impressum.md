@@ -16,7 +16,7 @@ Registergericht: Amtsgericht Landau
 Registernummer: VR 2756
 
 ### Vertretungsberechtigter Vorstand
-1. Vorsitzender: Hakon Benner-Stollowsky (Anschrift wie oben)
+1. Vorsitzender: Hakon Benner, Anschrift wie oben
 1. Vorsitzender: Ekki Plicht, Herxheim
 
 ### Kein inhaltlich Verantwortlicher
