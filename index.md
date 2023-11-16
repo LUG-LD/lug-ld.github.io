@@ -20,6 +20,23 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 * Do. 16.11.23 (Pizzeria Milano,Rheinstr. 29, Landau)
 * Mi. 20.12.23 (ZTL, mit Vortrag, ein Thema wird noch gesucht)
 
+### Termine 2024
+Das sind die __voraussichtlichen__ Termine 2024. Wie immer abwechselnd Mittwochs und Donnerstags, abwechseln in einer Kneipe in landau und im ZTL, dann mit Vortrag. Der Abstand der Termine beträgt nicht immer genau 4 Wochen, das verschiebt sich manchmal um eine Woche. Dies geschieht um Terminkollisionen mit der Raumbelegung im ZTL zu vermeiden. Durchaus möglich, das sich der eine oder andere Termin noch etwas verschiebt, Info kommt dann hier und per Mailingliste. Wie immer suchen wir Vortragende für kleine interessante Themen rund um Linux! Freiwillige vor!
+
+* Mi, 17. Jan 2024 (Kneipe TBD)
+* Do, 15. Feb 2024 (ZTL, mit Vortrag)
+* Mi, 13. Mar 2024 (Kneipe TBD)
+* Do, 18. Apr 2024 (ZTL, mit Vortrag)
+* Mi, 22. Mai 2024 (Kneipe TBD)
+* Do, 13. Jun 2024 (ZTL, mit Vortrag)
+* Mi, 17. Jul 2024 (Kneipe TBD)
+* Do, 15. Aug 2024 (ZTL, mit Vortrag)
+* Mi, 11. Sep 2024 (Kneipe)
+* Do, 17. Okt 2024 (ZTL, mit Vortrag)
+* Mi, 20. Nov 2024 (Kneipe)
+* Do, 19. Dez 2024 (ZTL, mit Vortrag)
+
+
 ## Wir unterstützen die Pinguine im Landauer Zoo und die können häcken
 <div>
 <img src="img/penguins_can_hack.jpg" alt="Pinguine können hacken. Schild im Zoo Landau." title="Pinguine können hacken!" style="float: right; padding: 0 0 0 10px;">
