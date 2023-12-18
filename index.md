@@ -17,11 +17,10 @@ Neben den regelmäßigen Treffen (siehe unten) unterstützen oder organisieren w
 
 Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uhr. Meistens treffen wir uns in einem Restaurant in Landau, aber auch gelegentlich in den Räumen des [ZTL.space](https://ztl.space){:target="_blank"} (Zentrum für Technikkultur Landau). Wir bemühen uns, zu den meisten Treffen ein interessantes Thema oder einen Vortrag zu organisieren. Da geht es dann um Linux- oder verwandte Themen aus dem Bereich Soft- und Hardware.
 
-* Do. 16.11.23 (Pizzeria Milano,Rheinstr. 29, Landau)
 * Mi. 20.12.23 (ZTL, mit Vortrag, ein Thema wird noch gesucht)
 
 ### Termine 2024
-Das sind die __voraussichtlichen__ Termine 2024. Wie immer abwechselnd Mittwochs und Donnerstags, abwechseln in einer Kneipe in landau und im ZTL, dann mit Vortrag. Der Abstand der Termine beträgt nicht immer genau 4 Wochen, das verschiebt sich manchmal um eine Woche. Dies geschieht um Terminkollisionen mit der Raumbelegung im ZTL zu vermeiden. Durchaus möglich, das sich der eine oder andere Termin noch etwas verschiebt, Info kommt dann hier und per Mailingliste. Wie immer suchen wir Vortragende für kleine interessante Themen rund um Linux! Freiwillige vor!
+Das sind die __voraussichtlichen__ Termine 2024. Wie immer abwechselnd Mittwochs und Donnerstags, abwechseln in einer Kneipe in Landau und im ZTL, dann mit Vortrag. Der Abstand der Termine beträgt nicht immer genau 4 Wochen, das verschiebt sich manchmal um eine Woche. Dies geschieht um Terminkollisionen mit der Raumbelegung im ZTL zu vermeiden. Durchaus möglich, das sich der eine oder andere Termin noch etwas verschiebt, Info kommt dann hier und per Mailingliste. Wie immer suchen wir Vortragende für kleine interessante Themen rund um Linux! Freiwillige vor!
 
 * Mi, 17. Jan 2024 (Kneipe TBD)
 * Do, 15. Feb 2024 (ZTL, mit Vortrag)
