@@ -20,7 +20,6 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 ### Termine 2024
 Das sind die __voraussichtlichen__ Termine 2024. Wie immer abwechselnd Mittwochs und Donnerstags, abwechseln in einer Kneipe in Landau und im ZTL, dann mit Vortrag. Der Abstand der Termine beträgt nicht immer genau 4 Wochen, das verschiebt sich manchmal um eine Woche. Dies geschieht um Terminkollisionen mit der Raumbelegung im ZTL zu vermeiden. Durchaus möglich, das sich der eine oder andere Termin noch etwas verschiebt, Info kommt dann hier und per Mailingliste. Wie immer suchen wir Vortragende für kleine interessante Themen rund um Linux! Freiwillige vor!
 
-* Mi, 22. Mai 2024 (Red Chilies)
 * Do, 13. Jun 2024 (ZTL, mit Vortrag)
 * Mi, 17. Jul 2024 (Kneipe TBD)
 * Do, 15. Aug 2024 (ZTL, mit Vortrag)
