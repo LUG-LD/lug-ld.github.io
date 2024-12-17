@@ -21,6 +21,20 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 Das sind die __voraussichtlichen__ Termine 2024. Wie immer abwechselnd Mittwochs und Donnerstags, abwechseln in einer Kneipe in Landau und im ZTL, dann mit Vortrag. Der Abstand der Termine beträgt nicht immer genau 4 Wochen, das verschiebt sich manchmal um eine Woche. Dies geschieht um Terminkollisionen mit der Raumbelegung im ZTL zu vermeiden. Durchaus möglich, das sich der eine oder andere Termin noch etwas verschiebt, Info kommt dann hier und per Mailingliste. Wie immer suchen wir Vortragende für kleine interessante Themen rund um Linux! Freiwillige vor!
 
 * Do, 19. Dez 2024 TBD
+* Mi, 15. Jan 2025
+* Do, 13. Feb 2025
+* Mi, 12. Mar 2025
+* Do, 17. Apr 2025
+* Do, 15. Mai 2025
+* Do, 12. Jun 2025
+* Mi, 16. Jul 2025
+* Do, 14. Aug 2025
+* Mi, 17. Sep 2025
+* Do, 16. Okt 2025
+* Mi, 19. Nov 2025
+* Do, 18. Dez 2025
+
+
 
 
 ## Wir unterstützen die Pinguine im Landauer Zoo und die können häcken
