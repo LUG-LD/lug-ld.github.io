@@ -20,8 +20,7 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 ### Termine 2024/2025
 Das sind die __voraussichtlichen__ Termine im laufenden und kommenden Jahr. Wie immer abwechselnd Mittwochs und Donnerstags, abwechseln in einer Kneipe in Landau und im ZTL, dann mit Vortrag. Der Abstand der Termine beträgt nicht immer genau 4 Wochen, das verschiebt sich manchmal um eine Woche. Dies geschieht um Terminkollisionen mit der Raumbelegung im ZTL zu vermeiden. Durchaus möglich, das sich der eine oder andere Termin noch etwas verschiebt, Info kommt dann hier und per Mailingliste. Wie immer suchen wir Vortragende für kleine interessante Themen rund um Linux! Freiwillige vor!
 
-* Do, 19. Dez 2024 TBD
-* Mi, 15. Jan 2025 (Restaurant TBD)
+* Mi, 15. Jan 2025 (Restaurant Red Chillies, Max-Planck Str. 1, Landau i.d.Pf.)
 * Do, 13. Feb 2025 (ZTL, mit Vortrag)
 * Mi, 12. Mar 2025 (Restaurant TBD)
 * Do, 17. Apr 2025 (ZTL, mit Vortrag)
