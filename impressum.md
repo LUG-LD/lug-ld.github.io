@@ -5,7 +5,8 @@ permalink: /impressum.html
 [Home](/) | [Verein](verein.html) | [Kontakt](kontakt.html) | [Impressum](impressum.html)
 
 # Impressum
-Linux User Group Landau in der Pfalz (lug-ld) e. V.  
+Linux User Group Landau in der Pfalz (lug-ld) e. V.
+z. Hd. Hakon Benner
 Hans-Stempel-Str. 3  
 76829 Landau in der Pfalz
 
