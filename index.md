@@ -24,7 +24,7 @@ Das sind die Termine für das Jahr 2025. Wie immer abwechselnd Mittwochs und Don
 * Mi, 12. Mar 2025 (Restaurant TBD)
 * Do, 17. Apr 2025 (ZTL, mit Vortrag)
 * Do, 15. Mai 2025 (Restaurant TBD)
-* Do, 12. Jun 2025 (ZTL, mit Vortrag)
+* Do, 12. Jun 2025 (ZTL, Mitgliederversammlung mit Vorstandswahl)
 * Mi, 16. Jul 2025 (Restaurant TBD)
 * Do, 14. Aug 2025 (ZTL, mit Vortrag)
 * Mi, 17. Sep 2025 (Restaurant TBD)
