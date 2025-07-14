@@ -18,7 +18,7 @@ Registernummer: VR 2756
 
 ### Vertretungsberechtigter Vorstand
 1. Vorsitzender: Hakon Benner, Anschrift wie oben
-1. Vorsitzender: Ekki Plicht, Herxheim
+1. Vorsitzender: Christian Boltz, Insheim
 
 ### Kein inhaltlich Verantwortlicher
 Als nichtwirtschaftlicher Verein der primär nur ideelle Zwecke verfolgt (Idealverein) gilt für uns § 55 Abs. 1 MStV
