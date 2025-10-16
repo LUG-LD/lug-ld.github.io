@@ -23,6 +23,18 @@ Das sind die Termine für das Jahr 2025. Wie immer abwechselnd Mittwochs und Don
 * Mi, 19. Nov 2025 (Restaurant TBD)
 * Do, 18. Dez 2025 (ZTL, mit Vortrag)
 
+* Mi, 14. Jan 2026
+* Do, 19. Feb 2026
+* Mi, 11. Mrz 2026
+* Do, 16. Apr 2026
+* Mi, 20. Mai 2026
+* Do, 18. Jun 2026
+* Mi, 15. Jul 2026
+* Do, 20. Aug 2026
+* Mi, 23. Sep 2026
+* Do, 15. Okt 2026
+* Mi, 18. Nov 2026
+* Do, 17. Dez 2026
 
 
 
