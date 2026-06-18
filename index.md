@@ -20,8 +20,7 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 ### Termine
 Das sind die Termine für das Jahr 2026. Wie immer abwechselnd Mittwochs und Donnerstags, abwechseln in einer Kneipe in Landau und im ZTL, dann mit Vortrag. Der Abstand der Termine beträgt nicht immer genau 4 Wochen, das verschiebt sich manchmal um eine Woche. Dies geschieht um Terminkollisionen mit der Raumbelegung im ZTL zu vermeiden. Durchaus möglich, das sich der eine oder andere Termin noch etwas verschiebt, Info kommt dann hier und per Mailingliste. Wie immer suchen wir Vortragende für kleine interessante Themen rund um Linux! Freiwillige vor!
 
-* Do, 18. Jun 2026 im Vier Jahreszeiten (Wei&szlig;quartierplatz)
-* Mi, 15. Jul 2026
+* Mi, 8. Jul 2026
 * Do, 20. Aug 2026
 * Mi, 23. Sep 2026
 * Do, 15. Okt 2026
