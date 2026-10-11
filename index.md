@@ -20,8 +20,7 @@ Unsere regelmäßigen Vereinstreffen finden 1x im Monat statt, immer um 19:00 Uh
 ### Termine
 Das sind die Termine für das Jahr 2026. Wie immer abwechselnd Mittwochs und Donnerstags, abwechseln in einer Kneipe in Landau und im ZTL, dann mit Vortrag. Der Abstand der Termine beträgt nicht immer genau 4 Wochen, das verschiebt sich manchmal um eine Woche. Dies geschieht um Terminkollisionen mit der Raumbelegung im ZTL zu vermeiden. Durchaus möglich, das sich der eine oder andere Termin noch etwas verschiebt, Info kommt dann hier und per Mailingliste. Wie immer suchen wir Vortragende für kleine interessante Themen rund um Linux! Freiwillige vor!
 
-* Mi, 23. Sep 2026: git Workshop - bitte [anmelden](https://events.ztl.space/git26a/)!
-* Do, 15. Okt 2026
+* Do, 15. Okt 2026 im Red Chillies
 * Mi, 18. Nov 2026
 * Do, 17. Dez 2026
 
